@@ -24,8 +24,6 @@ public class Exercise11 {
         System.out.println("El color del TVRemote es: " + redRemote.getColor());
         //Apagar la TV
         redRemote.turnOff();
-
-
     }
 
 }
